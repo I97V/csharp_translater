@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+/.vs
+/csharp_translater/bin
+/csharp_translater/obj
