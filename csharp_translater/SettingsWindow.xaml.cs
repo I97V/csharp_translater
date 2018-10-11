@@ -24,13 +24,13 @@ namespace csharp_translater
 			FillBoxes_rus_V();
 			FillBoxes_rus_v();
 
-			/*FillBoxes_rus_G();
+			FillBoxes_rus_G();
 			FillBoxes_rus_g();
 
 			FillBoxes_rus_D();
 			FillBoxes_rus_d();
 
-			FillBoxes_rus_E();
+			/*FillBoxes_rus_E();
 			FillBoxes_rus_e();
 
 			FillBoxes_rus_YO();
@@ -207,7 +207,17 @@ namespace csharp_translater
 			cb_rus_A.Items.Add(Convert.ToChar(000));         // 8
 			cb_rus_A.Items.Add(Convert.ToChar(000));         // 9
 
-			// 65		A
+			// 
+			// 
+			// 
+			// 
+			// 
+			// 
+			// 
+			// 
+			// 
+			// 
+			// 
 		}
 
 		/*	А	*/
@@ -608,211 +618,147 @@ namespace csharp_translater
 			// 7470		ᴮ
 			// 7471     ᴯ
 		}
+
+		/*	Г	*/
+		private void FillBoxes_rus_G()
+		{
+			cb_rus_G.Items.Add(Convert.ToChar(915));         // 0
+			cb_rus_G.Items.Add(Convert.ToChar(1027));         // 1
+			cb_rus_G.Items.Add(Convert.ToChar(1043));         // 2
+			cb_rus_G.Items.Add(Convert.ToChar(1168));         // 3
+			cb_rus_G.Items.Add(Convert.ToChar(1170));         // 4
+			cb_rus_G.Items.Add(Convert.ToChar(1270));         // 5
+			cb_rus_G.Items.Add(Convert.ToChar(1498));         // 6
+			cb_rus_G.Items.Add(Convert.ToChar(2006));         // 7
+			cb_rus_G.Items.Add(Convert.ToChar(5045));         // 8
+			cb_rus_G.Items.Add(Convert.ToChar(5258));         // 9
+			cb_rus_G.Items.Add(Convert.ToChar(5259));         // 10
+			cb_rus_G.Items.Add(Convert.ToChar(5260));         // 11
+			cb_rus_G.Items.Add(Convert.ToChar(5268));         // 12
+			cb_rus_G.Items.Add(Convert.ToChar(5269));         // 13
+			cb_rus_G.Items.Add(Convert.ToChar(5270));         // 14
+			cb_rus_G.Items.Add(Convert.ToChar(5271));         // 15
+			cb_rus_G.Items.Add(Convert.ToChar(5284));         // 16
+			cb_rus_G.Items.Add(Convert.ToChar(5285));         // 17
+			cb_rus_G.Items.Add(Convert.ToChar(5286));         // 18
+			cb_rus_G.Items.Add(Convert.ToChar(5294));         // 19
+			cb_rus_G.Items.Add(Convert.ToChar(5295));         // 20
+			cb_rus_G.Items.Add(Convert.ToChar(5296));         // 21
+			cb_rus_G.Items.Add(Convert.ToChar(5297));         // 22
+			cb_rus_G.Items.Add(Convert.ToChar(5392));         // 23
+			cb_rus_G.Items.Add(Convert.ToChar(5399));         // 24
+			cb_rus_G.Items.Add(Convert.ToChar(5400));         // 25
+
+			// 915		Γ               
+			// 1027		Ѓ
+			// 1043		Г
+			// 1168		Ґ
+			// 1170		Ғ
+			// 1270		Ӷ
+			// 1498		ך
+			// 2006		ߖ
+			// 5045		Ꮅ
+			// 5258        ᒊ
+			// 5259        ᒋ
+			// 5260        ᒌ
+			// 5268        ᒔ
+			// 5269        ᒕ
+			// 5270        ᒖ
+			// 5271        ᒗ
+			// 5284        ᒤ
+			// 5285        ᒥ
+			// 5286        ᒦ
+			// 5294        ᒮ
+			// 5295        ᒯ
+			// 5296        ᒰ
+			// 5297        ᒱ
+			// 5392			ᔐ
+			// 5399			ᔗ
+			// 5400			ᔘ
+		}
+
+		private void FillBoxes_rus_g()
+		{
+			cb_rus_g.Items.Add(Convert.ToChar(1075));         // 0
+			cb_rus_g.Items.Add(Convert.ToChar(1169));         // 1
+			cb_rus_g.Items.Add(Convert.ToChar(1171));         // 2
+			cb_rus_g.Items.Add(Convert.ToChar(1275));         // 3
+			cb_rus_g.Items.Add(Convert.ToChar(1360));         // 4
+			cb_rus_g.Items.Add(Convert.ToChar(1408));         // 5
+			cb_rus_g.Items.Add(Convert.ToChar(2719));         // 6
+			cb_rus_g.Items.Add(Convert.ToChar(2722));         // 7
+			cb_rus_g.Items.Add(Convert.ToChar(4971));         // 8
+			cb_rus_g.Items.Add(Convert.ToChar(7460));         // 9
+			cb_rus_g.Items.Add(Convert.ToChar(7462));         // 10
+
+			// 1075		г
+			// 1169		ґ
+			// 1171		ғ
+			// 1271		ӷ
+			// 1275		ӻ
+			// 1360		Ր
+			// 1408		ր
+			// 2719		ટ
+			// 2722		ઢ
+			// 4971		፫
+			// 7460        ᴤ
+			// 7462		ᴦ
+		}
+
+		/*	Д	*/
+		private void FillBoxes_rus_D()
+		{
+			cb_rus_D.Items.Add(Convert.ToChar(68));         // 0
+			cb_rus_D.Items.Add(Convert.ToChar(270));         // 1
+			cb_rus_D.Items.Add(Convert.ToChar(1044));         // 2
+			cb_rus_D.Items.Add(Convert.ToChar(1324));         // 3
+			cb_rus_D.Items.Add(Convert.ToChar(5024));         // 4
+			cb_rus_D.Items.Add(Convert.ToChar(7429));         // 5
+			cb_rus_D.Items.Add(Convert.ToChar(7430));         // 6
+			cb_rus_D.Items.Add(Convert.ToChar(7472));         // 7
+
+			// 68		D
+			// 270		Ď
+			// 1044		Д
+			// 1324		Ԭ
+			// 5024		Ꭰ
+			// 7429		ᴅ
+			// 7430        ᴆ
+			// 7472		ᴰ
+		}
+
+		private void FillBoxes_rus_d()
+		{
+			cb_rus_d.Items.Add(Convert.ToChar(103));         // 0
+			cb_rus_d.Items.Add(Convert.ToChar(285));         // 1
+			cb_rus_d.Items.Add(Convert.ToChar(287));         // 2
+			cb_rus_d.Items.Add(Convert.ToChar(289));         // 3
+			cb_rus_d.Items.Add(Convert.ToChar(485));         // 4
+			cb_rus_d.Items.Add(Convert.ToChar(501));         // 5
+			cb_rus_d.Items.Add(Convert.ToChar(608));         // 6
+			cb_rus_d.Items.Add(Convert.ToChar(609));         // 7
+			cb_rus_d.Items.Add(Convert.ToChar(1076));         // 8
+			cb_rus_d.Items.Add(Convert.ToChar(1325));         // 9
+			cb_rus_d.Items.Add(Convert.ToChar(7501));         // 10
+			cb_rus_d.Items.Add(Convert.ToChar(7586));         // 11
+			cb_rus_d.Items.Add(Convert.ToChar(7713));         // 12
+			cb_rus_d.Items.Add(Convert.ToChar(43124));         // 13
+
+			// 103		g
+			// 285		ĝ
+			// 287		ğ
+			// 289		ġ
+			// 291		ģ
+			// 485		ǥ
+			// 501		ǵ
+			// 608		ɠ
+			// 609     ɡ
+			// 1076		д
+			// 1325		ԭ
+			// 7501		ᵍ
+			// 7586        ᶢ
+			// 7713		ḡ
+			// 43124		꡴
+		}
 	}
 }
- 
-/*
- * MINI-FONT
-7424		ᴀ
-7425		ᴁ
-7426		ᴂ
-7427		ᴃ
-7428		ᴄ
-7429		ᴅ
-7430		ᴆ
-7431		ᴇ
-7432		ᴈ
-7433		ᴉ
-7434		ᴊ
-7435		ᴋ
-7436		ᴌ
-7437		ᴍ
-7438		ᴎ
-7439		ᴏ
-7440		ᴐ
-7441		ᴑ
-7442		ᴒ
-7443		ᴓ
-7444		ᴔ
-7445		ᴕ
-7446		ᴖ
-7447		ᴗ
-7448		ᴘ
-7449		ᴙ
-7450		ᴚ
-7451		ᴛ
-7452		ᴜ
-7453		ᴝ
-7454		ᴞ
-7455		ᴟ
-7456		ᴠ
-7457		ᴡ
-7458		ᴢ
-7459		ᴣ
-7460		ᴤ
-7461		ᴥ
-7462		ᴦ
-7463		ᴧ
-7464		ᴨ
-7465		ᴩ
-7466		ᴪ
-7467		ᴫ
-7468		ᴬ
-7469		ᴭ
-7470		ᴮ
-7471		ᴯ
-7472		ᴰ
-7473		ᴱ
-7474		ᴲ
-7475		ᴳ
-7476		ᴴ
-7477		ᴵ
-7478		ᴶ
-7479		ᴷ
-7480		ᴸ
-7481		ᴹ
-7482		ᴺ
-7483		ᴻ
-7484		ᴼ
-7485		ᴽ
-7486		ᴾ
-7487		ᴿ
-7488		ᵀ
-7489		ᵁ
-7490		ᵂ
-7491		ᵃ
-7492		ᵄ
-7493		ᵅ
-7494		ᵆ
-7495		ᵇ
-7496		ᵈ
-7497		ᵉ
-7498		ᵊ
-7499		ᵋ
-7500		ᵌ
-7501		ᵍ
-7502		ᵎ
-7503		ᵏ
-7504		ᵐ
-7505		ᵑ
-7506		ᵒ
-7507		ᵓ
-7508		ᵔ
-7509		ᵕ
-7510		ᵖ
-7511		ᵗ
-7512		ᵘ
-7513		ᵙ
-7514		ᵚ
-7515		ᵛ
-7516		ᵜ
-7517		ᵝ
-7518		ᵞ
-7519		ᵟ
-7520		ᵠ
-7521		ᵡ
-7522		ᵢ
-7523		ᵣ
-7524		ᵤ
-7525		ᵥ
-7526		ᵦ
-7527		ᵧ
-7528		ᵨ
-7529		ᵩ
-7530		ᵪ
-7531		ᵫ
-7532		ᵬ
-7533		ᵭ
-7534		ᵮ
-7535		ᵯ
-7536		ᵰ
-7537		ᵱ
-7538		ᵲ
-7539		ᵳ
-7540		ᵴ
-7541		ᵵ
-7542		ᵶ
-7543		ᵷ
-7544		ᵸ
-7545		ᵹ
-7546		ᵺ
-7547		ᵻ
-7548		ᵼ
-7549		ᵽ
-7550		ᵾ
-7551		ᵿ
-7552		ᶀ
-7553		ᶁ
-7554		ᶂ
-7555		ᶃ
-7556		ᶄ
-7557		ᶅ
-7558		ᶆ
-7559		ᶇ
-7560		ᶈ
-7561		ᶉ
-7562		ᶊ
-7563		ᶋ
-7564		ᶌ
-7565		ᶍ
-7566		ᶎ
-7567		ᶏ
-7568		ᶐ
-7569		ᶑ
-7570		ᶒ
-7571		ᶓ
-7572		ᶔ
-7573		ᶕ
-7574		ᶖ
-7575		ᶗ
-7576		ᶘ
-7577		ᶙ
-7578		ᶚ
-7579		ᶛ
-7580		ᶜ
-7581		ᶝ
-7582		ᶞ
-7583		ᶟ
-7584		ᶠ
-7585		ᶡ
-7586		ᶢ
-7587		ᶣ
-7588		ᶤ
-7589		ᶥ
-7590		ᶦ
-7591		ᶧ
-7592		ᶨ
-7593		ᶩ
-7594		ᶪ
-7595		ᶫ
-7596		ᶬ
-7597		ᶭ
-7598		ᶮ
-7599		ᶯ
-7600		ᶰ
-7601		ᶱ
-7602		ᶲ
-7603		ᶳ
-7604		ᶴ
-7605		ᶵ
-7606		ᶶ
-7607		ᶷ
-7608		ᶸ
-7609		ᶹ
-7610		ᶺ
-7611		ᶻ
-7612		ᶼ
-7613		ᶽ
-7614		ᶾ
-7615		ᶿ
-7616		᷀
-7617		᷁
-7618		᷂
-7619		᷃
-7620		᷄
-7621		᷅
-7622		᷆
-7623		᷇
-7624		᷈
-7625		᷉
-*/
