@@ -49,7 +49,7 @@ namespace csharp_translater
 			FillBoxes_rus_IK();
 			FillBoxes_rus_ik();
 
-			/*FillBoxes_rus_K();
+			FillBoxes_rus_K();
 			FillBoxes_rus_k();
 
 			FillBoxes_rus_L();
@@ -64,7 +64,7 @@ namespace csharp_translater
 			FillBoxes_rus_O();
 			FillBoxes_rus_o();
 
-			FillBoxes_rus_P();
+			/*FillBoxes_rus_P();
 			FillBoxes_rus_p();
 
 			FillBoxes_rus_R();
@@ -754,7 +754,6 @@ namespace csharp_translater
 		}
 
 		/*	Е	*/
-
 		private void FillBoxes_rus_E()
 		{
 			cb_rus_E.Items.Add(Convert.ToChar(69));         // 0
@@ -868,7 +867,6 @@ namespace csharp_translater
 		}
 
 		/*	Ё	*/
-
 		private void FillBoxes_rus_YO()
 		{
 			cb_rus_YO.Items.Add(Convert.ToChar(200));         // 0
@@ -966,7 +964,6 @@ namespace csharp_translater
 		}
 
 		/*	Ж	*/
-
 		private void FillBoxes_rus_ZH()
 		{
 			cb_rus_ZH.Items.Add(Convert.ToChar(1046));         // 0
@@ -994,7 +991,6 @@ namespace csharp_translater
 		}
 
 		/*	З	*/
-
 		private void FillBoxes_rus_Z()
 		{
 			cb_rus_Z.Items.Add(Convert.ToChar(439));         // 0
@@ -1062,7 +1058,6 @@ namespace csharp_translater
 		}
 
 		/*	И	*/
-
 		private void FillBoxes_rus_I()
 		{
 			cb_rus_I.Items.Add(Convert.ToChar(431));         // 0
@@ -1132,7 +1127,6 @@ namespace csharp_translater
 		}
 
 		/*	Й	*/
-
 		private void FillBoxes_rus_IK()
 		{
 			cb_rus_IK.Items.Add(Convert.ToChar(467));         // 0
@@ -1251,6 +1245,484 @@ namespace csharp_translater
 			// 8163        ΰ
 			// 8166		ῦ
 			// 8167        ῧ
+		}
+
+		/*	К	*/
+		private void FillBoxes_rus_K()
+		{
+			cb_rus_K.Items.Add(Convert.ToChar(75));         // 0
+			cb_rus_K.Items.Add(Convert.ToChar(310));         // 1
+			cb_rus_K.Items.Add(Convert.ToChar(408));         // 2
+			cb_rus_K.Items.Add(Convert.ToChar(1036));         // 3
+			cb_rus_K.Items.Add(Convert.ToChar(1050));         // 4
+			cb_rus_K.Items.Add(Convert.ToChar(1178));         // 5
+			cb_rus_K.Items.Add(Convert.ToChar(1180));         // 6
+			cb_rus_K.Items.Add(Convert.ToChar(1182));         // 7
+			cb_rus_K.Items.Add(Convert.ToChar(1184));         // 8
+			cb_rus_K.Items.Add(Convert.ToChar(7728));         // 9
+			cb_rus_K.Items.Add(Convert.ToChar(7729));         // 10
+			cb_rus_K.Items.Add(Convert.ToChar(7730));         // 11
+			cb_rus_K.Items.Add(Convert.ToChar(7732));         // 12
+			cb_rus_K.Items.Add(Convert.ToChar(11369));         // 13
+			cb_rus_K.Items.Add(Convert.ToChar(42199));         // 14
+			cb_rus_K.Items.Add(Convert.ToChar(43105));         // 15
+
+			// 75		K
+			// 310		Ķ
+			// 408		Ƙ
+			// 1036		Ќ
+			// 1050		К
+			// 1178		Қ
+			// 1180        Ҝ
+			// 1182        Ҟ
+			// 1184        Ҡ
+			// 7728		Ḱ
+			// 7729        ḱ
+			// 7730        Ḳ
+			// 7732        Ḵ
+			// 11369		Ⱪ
+			// 42199		ꓗ
+			// 43105		ꡡ
+
+		}
+
+		private void FillBoxes_rus_k()
+		{
+			cb_rus_k.Items.Add(Convert.ToChar(107));         // 0
+			cb_rus_k.Items.Add(Convert.ToChar(311));         // 1
+			cb_rus_k.Items.Add(Convert.ToChar(312));         // 2
+			cb_rus_k.Items.Add(Convert.ToChar(409));         // 3
+			cb_rus_k.Items.Add(Convert.ToChar(1082));         // 4
+			cb_rus_k.Items.Add(Convert.ToChar(1116));         // 5
+			cb_rus_k.Items.Add(Convert.ToChar(1179));         // 6
+			cb_rus_k.Items.Add(Convert.ToChar(1181));         // 7
+			cb_rus_k.Items.Add(Convert.ToChar(1183));         // 8
+			cb_rus_k.Items.Add(Convert.ToChar(1185));         // 9
+			cb_rus_k.Items.Add(Convert.ToChar(7435));         // 10
+			cb_rus_k.Items.Add(Convert.ToChar(7479));         // 11
+			cb_rus_k.Items.Add(Convert.ToChar(7503));         // 12
+			cb_rus_k.Items.Add(Convert.ToChar(7556));         // 13
+			cb_rus_k.Items.Add(Convert.ToChar(7731));         // 14
+			cb_rus_k.Items.Add(Convert.ToChar(7733));         // 15
+			cb_rus_k.Items.Add(Convert.ToChar(11370));         // 16
+
+			// 107		k
+			// 311		ķ
+			// 312     ĸ
+			// 409		ƙ
+			// 1082		к
+			// 1116		ќ
+			// 1179        қ
+			// 1181        ҝ
+			// 1183        ҟ
+			// 1185        ҡ
+			// 7435		ᴋ
+			// 7479		ᴷ
+			// 7503		ᵏ
+			// 7556		ᶄ
+			// 7731        ḳ
+			// 7733        ḵ
+			// 11370       ⱪ
+		}
+
+		/*	Л	*/
+		private void FillBoxes_rus_L()
+		{
+			cb_rus_L.Items.Add(Convert.ToChar(1051));         // 0
+			cb_rus_L.Items.Add(Convert.ToChar(1221));         // 1
+			cb_rus_L.Items.Add(Convert.ToChar(1288));         // 2
+			cb_rus_L.Items.Add(Convert.ToChar(1298));         // 3
+			cb_rus_L.Items.Add(Convert.ToChar(1326));         // 4
+			cb_rus_L.Items.Add(Convert.ToChar(4616));         // 5
+			cb_rus_L.Items.Add(Convert.ToChar(4617));         // 6
+			cb_rus_L.Items.Add(Convert.ToChar(4618));         // 7
+			cb_rus_L.Items.Add(Convert.ToChar(4620));         // 8
+			cb_rus_L.Items.Add(Convert.ToChar(4621));         // 9
+			cb_rus_L.Items.Add(Convert.ToChar(4622));         // 10
+			cb_rus_L.Items.Add(Convert.ToChar(4623));         // 11
+			cb_rus_L.Items.Add(Convert.ToChar(5057));         // 12
+			cb_rus_L.Items.Add(Convert.ToChar(20960));         // 13
+
+			// 1051		Л
+			// 1221		Ӆ
+			// 1288		Ԉ
+			// 1298		Ԓ
+			// 1326		Ԯ
+			// 4616		ለ
+			// 4617        ሉ
+			// 4618        ሊ
+			// 4620        ሌ
+			// 4621        ል
+			// 4622        ሎ
+			// 4623        ሏ
+			// 5057		Ꮑ
+			// 20960		几
+		}
+
+		private void FillBoxes_rus_l()
+		{
+			cb_rus_l.Items.Add(Convert.ToChar(955));         // 0
+			cb_rus_l.Items.Add(Convert.ToChar(1083));         // 1
+			cb_rus_l.Items.Add(Convert.ToChar(1222));         // 2
+			cb_rus_l.Items.Add(Convert.ToChar(1289));         // 3
+			cb_rus_l.Items.Add(Convert.ToChar(1299));         // 4
+			cb_rus_l.Items.Add(Convert.ToChar(1327));         // 5
+			cb_rus_l.Items.Add(Convert.ToChar(1997));         // 6
+			cb_rus_l.Items.Add(Convert.ToChar(4619));         // 7
+			cb_rus_l.Items.Add(Convert.ToChar(7463));         // 8
+			cb_rus_l.Items.Add(Convert.ToChar(7610));         // 9
+			cb_rus_l.Items.Add(Convert.ToChar(12703));         // 10
+
+			// 955		λ
+			// 1083		л
+			// 1222		ӆ
+			// 1289		ԉ
+			// 1299		ԓ
+			// 1327		ԯ
+			// 1997		ߍ
+			// 4619        ላ
+			// 7463		ᴧ
+			// 7610		ᶺ
+			// 12703		㆟
+		}
+
+		/*	М	*/
+		private void FillBoxes_rus_M()
+		{
+			cb_rus_M.Items.Add(Convert.ToChar(77));         // 0
+			cb_rus_M.Items.Add(Convert.ToChar(924));         // 1
+			cb_rus_M.Items.Add(Convert.ToChar(1018));         // 2
+			cb_rus_M.Items.Add(Convert.ToChar(1052));         // 3
+			cb_rus_M.Items.Add(Convert.ToChar(1229));         // 4
+			cb_rus_M.Items.Add(Convert.ToChar(5047));         // 5
+			cb_rus_M.Items.Add(Convert.ToChar(7742));         // 6
+			cb_rus_M.Items.Add(Convert.ToChar(7744));         // 7
+			cb_rus_M.Items.Add(Convert.ToChar(7746));         // 8
+			cb_rus_M.Items.Add(Convert.ToChar(11374));         // 9
+			cb_rus_M.Items.Add(Convert.ToChar(42207));         // 10
+
+			// 77		M
+			// 924		Μ
+			// 1018		Ϻ
+			// 1052		М
+			// 1229		Ӎ
+			// 5047		Ꮇ
+			// 7742		Ḿ
+			// 7744		Ṁ
+			// 7746		Ṃ
+			// 11374		Ɱ
+			// 42207		ꓟ
+		}
+
+		private void FillBoxes_rus_m()
+		{
+			cb_rus_m.Items.Add(Convert.ToChar(653));         // 0
+			cb_rus_m.Items.Add(Convert.ToChar(1019));         // 1
+			cb_rus_m.Items.Add(Convert.ToChar(1084));         // 2
+			cb_rus_m.Items.Add(Convert.ToChar(1230));         // 3
+			cb_rus_m.Items.Add(Convert.ToChar(7437));         // 4
+			cb_rus_m.Items.Add(Convert.ToChar(7481));         // 5
+
+			// 653		ʍ
+			// 1019		ϻ
+			// 1084		м
+			// 1230		ӎ
+			// 7437		ᴍ
+			// 7481		ᴹ
+		}
+
+		/*	Н	*/
+		private void FillBoxes_rus_N()
+		{
+			cb_rus_N.Items.Add(Convert.ToChar(72));         // 0
+			cb_rus_N.Items.Add(Convert.ToChar(292));         // 1
+			cb_rus_N.Items.Add(Convert.ToChar(294));         // 2
+			cb_rus_N.Items.Add(Convert.ToChar(905));         // 3
+			cb_rus_N.Items.Add(Convert.ToChar(919));         // 4
+			cb_rus_N.Items.Add(Convert.ToChar(1053));         // 5
+			cb_rus_N.Items.Add(Convert.ToChar(1186));         // 6
+			cb_rus_N.Items.Add(Convert.ToChar(1188));         // 7
+			cb_rus_N.Items.Add(Convert.ToChar(1223));         // 8
+			cb_rus_N.Items.Add(Convert.ToChar(1225));         // 9
+			cb_rus_N.Items.Add(Convert.ToChar(1320));         // 10
+			cb_rus_N.Items.Add(Convert.ToChar(5051));         // 11
+			cb_rus_N.Items.Add(Convert.ToChar(5818));         // 12
+			cb_rus_N.Items.Add(Convert.ToChar(5819));         // 13
+			cb_rus_N.Items.Add(Convert.ToChar(7714));         // 14
+			cb_rus_N.Items.Add(Convert.ToChar(7716));         // 15
+			cb_rus_N.Items.Add(Convert.ToChar(7718));         // 16
+			cb_rus_N.Items.Add(Convert.ToChar(7720));         // 17
+			cb_rus_N.Items.Add(Convert.ToChar(7722));         // 18
+			cb_rus_N.Items.Add(Convert.ToChar(7976));         // 19
+			cb_rus_N.Items.Add(Convert.ToChar(7977));         // 20
+			cb_rus_N.Items.Add(Convert.ToChar(7978));         // 21
+			cb_rus_N.Items.Add(Convert.ToChar(7979));         // 22
+			cb_rus_N.Items.Add(Convert.ToChar(7980));         // 23
+			cb_rus_N.Items.Add(Convert.ToChar(7981));         // 24
+			cb_rus_N.Items.Add(Convert.ToChar(7982));         // 25
+			cb_rus_N.Items.Add(Convert.ToChar(7983));         // 26
+			cb_rus_N.Items.Add(Convert.ToChar(8088));         // 27
+			cb_rus_N.Items.Add(Convert.ToChar(8089));         // 28
+			cb_rus_N.Items.Add(Convert.ToChar(8090));         // 29
+			cb_rus_N.Items.Add(Convert.ToChar(8091));         // 30
+			cb_rus_N.Items.Add(Convert.ToChar(8092));         // 31
+			cb_rus_N.Items.Add(Convert.ToChar(8093));         // 32
+			cb_rus_N.Items.Add(Convert.ToChar(8094));         // 33
+			cb_rus_N.Items.Add(Convert.ToChar(8095));         // 34
+			cb_rus_N.Items.Add(Convert.ToChar(8138));         // 35
+			cb_rus_N.Items.Add(Convert.ToChar(8139));         // 37
+			cb_rus_N.Items.Add(Convert.ToChar(8140));         // 38
+			cb_rus_N.Items.Add(Convert.ToChar(11367));         // 39
+			cb_rus_N.Items.Add(Convert.ToChar(42215));         // 40
+			cb_rus_N.Items.Add(Convert.ToChar(43096));         // 41
+
+			// 72		H
+			// 292		Ĥ
+			// 294		Ħ
+			// 905		Ή
+			// 919		Η
+			// 1053		Н
+			// 1186		Ң
+			// 1188		Ҥ
+			// 1223		Ӈ
+			// 1225		Ӊ
+			// 1320		Ԩ
+			// 5051		Ꮋ
+			// 5818		ᚺ
+			// 5819        ᚻ
+			// 7714		Ḣ
+			// 7716        Ḥ
+			// 7718        Ḧ
+			// 7720        Ḩ
+			// 7722        Ḫ
+			// 7976		Ἠ
+			// 7977        Ἡ
+			// 7978        Ἢ
+			// 7979        Ἣ
+			// 7980        Ἤ
+			// 7981        Ἥ
+			// 7982        Ἦ
+			// 7983        Ἧ
+			// 8088        ᾘ
+			// 8089        ᾙ
+			// 8090        ᾚ
+			// 8091        ᾛ
+			// 8092        ᾜ
+			// 8093        ᾝ
+			// 8094        ᾞ
+			// 8095        ᾟ
+			// 8138        Ὴ
+			// 8139        Ή
+			// 8140        ῌ
+			// 11367       Ⱨ
+			// 42215       ꓧ
+			// 43096       ꡘ
+		}
+
+		private void FillBoxes_rus_n()
+		{
+			cb_rus_n.Items.Add(Convert.ToChar(668));         // 0
+			cb_rus_n.Items.Add(Convert.ToChar(1085));         // 1
+			cb_rus_n.Items.Add(Convert.ToChar(1187));         // 2
+			cb_rus_n.Items.Add(Convert.ToChar(1189));         // 3
+			cb_rus_n.Items.Add(Convert.ToChar(1224));         // 4
+			cb_rus_n.Items.Add(Convert.ToChar(1226));         // 5
+			cb_rus_n.Items.Add(Convert.ToChar(1321));         // 6
+			cb_rus_n.Items.Add(Convert.ToChar(4824));         // 7
+			cb_rus_n.Items.Add(Convert.ToChar(4825));         // 8
+			cb_rus_n.Items.Add(Convert.ToChar(4826));         // 9
+			cb_rus_n.Items.Add(Convert.ToChar(4827));         // 10
+			cb_rus_n.Items.Add(Convert.ToChar(4828));         // 11
+			cb_rus_n.Items.Add(Convert.ToChar(4829));         // 12
+			cb_rus_n.Items.Add(Convert.ToChar(4830));         // 13
+			cb_rus_n.Items.Add(Convert.ToChar(4831));         // 14
+			cb_rus_n.Items.Add(Convert.ToChar(4832));         // 15
+			cb_rus_n.Items.Add(Convert.ToChar(4833));         // 16
+			cb_rus_n.Items.Add(Convert.ToChar(4834));         // 17
+			cb_rus_n.Items.Add(Convert.ToChar(4835));         // 18
+			cb_rus_n.Items.Add(Convert.ToChar(4836));         // 19
+			cb_rus_n.Items.Add(Convert.ToChar(4837));         // 20
+			cb_rus_n.Items.Add(Convert.ToChar(4838));         // 21
+			cb_rus_n.Items.Add(Convert.ToChar(4839));         // 22
+			cb_rus_n.Items.Add(Convert.ToChar(7476));         // 23
+			cb_rus_n.Items.Add(Convert.ToChar(7544));         // 24
+
+			// 668		ʜ
+			// 1085		н
+			// 1187		ң
+			// 1189		ҥ
+			// 1224		ӈ
+			// 1226        ӊ
+			// 1321		ԩ
+			// 4824		ዘ
+			// 4825        ዙ
+			// 4826        ዚ
+			// 4827        ዛ
+			// 4828        ዜ
+			// 4829        ዝ
+			// 4830        ዞ
+			// 4831        ዟ
+			// 4832        ዠ
+			// 4833        ዡ
+			// 4834        ዢ
+			// 4835        ዣ
+			// 4836        ዤ
+			// 4837        ዥ
+			// 4838        ዦ
+			// 4839        ዧ
+			// 7476		ᴴ
+			// 7544		ᵸ
+		}
+
+		/*	О	*/
+		private void FillBoxes_rus_O()
+		{
+			cb_rus_O.Items.Add(Convert.ToChar(79));         // 0
+			cb_rus_O.Items.Add(Convert.ToChar(210));         // 1
+			cb_rus_O.Items.Add(Convert.ToChar(211));         // 2
+			cb_rus_O.Items.Add(Convert.ToChar(212));         // 3
+			cb_rus_O.Items.Add(Convert.ToChar(213));         // 4
+			cb_rus_O.Items.Add(Convert.ToChar(214));         // 5
+			cb_rus_O.Items.Add(Convert.ToChar(215));         // 6
+			cb_rus_O.Items.Add(Convert.ToChar(216));         // 7
+			cb_rus_O.Items.Add(Convert.ToChar(332));         // 8
+			cb_rus_O.Items.Add(Convert.ToChar(334));         // 9
+			cb_rus_O.Items.Add(Convert.ToChar(336));         // 10
+			cb_rus_O.Items.Add(Convert.ToChar(465));         // 11
+			cb_rus_O.Items.Add(Convert.ToChar(510));         // 12
+			cb_rus_O.Items.Add(Convert.ToChar(524));         // 13
+			cb_rus_O.Items.Add(Convert.ToChar(526));         // 14
+			cb_rus_O.Items.Add(Convert.ToChar(554));         // 15
+			cb_rus_O.Items.Add(Convert.ToChar(556));         // 16
+			cb_rus_O.Items.Add(Convert.ToChar(558));         // 17
+			cb_rus_O.Items.Add(Convert.ToChar(560));         // 18
+			cb_rus_O.Items.Add(Convert.ToChar(908));         // 19
+			cb_rus_O.Items.Add(Convert.ToChar(920));         // 20
+			cb_rus_O.Items.Add(Convert.ToChar(927));         // 21
+			cb_rus_O.Items.Add(Convert.ToChar(952));         // 22
+			cb_rus_O.Items.Add(Convert.ToChar(1054));         // 23
+			cb_rus_O.Items.Add(Convert.ToChar(1254));         // 24
+			cb_rus_O.Items.Add(Convert.ToChar(1256));         // 25
+			cb_rus_O.Items.Add(Convert.ToChar(1258));         // 26
+			cb_rus_O.Items.Add(Convert.ToChar(1365));         // 27
+			cb_rus_O.Items.Add(Convert.ToChar(5028));         // 28
+			cb_rus_O.Items.Add(Convert.ToChar(5054));         // 29
+			cb_rus_O.Items.Add(Convert.ToChar(5061));         // 30
+			cb_rus_O.Items.Add(Convert.ToChar(42152));         // 31
+			cb_rus_O.Items.Add(Convert.ToChar(42227));         // 32
+			cb_rus_O.Items.Add(Convert.ToChar(43504));         // 33
+
+			// 79		O
+			// 210		Ò
+			// 211     Ó
+			// 212     Ô
+			// 213     Õ
+			// 214     Ö
+			// 216		Ø
+			// 332		Ō
+			// 334		Ŏ
+			// 336		Ő
+			// 465		Ǒ
+			// 510		Ǿ
+			// 524		Ȍ
+			// 526		Ȏ
+			// 554		Ȫ
+			// 556		Ȭ
+			// 558		Ȯ
+			// 560		Ȱ
+			// 908		Ό
+			// 920		Θ
+			// 927		Ο
+			// 952		θ
+			// 1054		О
+			// 1254		Ӧ
+			// 1256		Ө
+			// 1258		Ӫ
+			// 1365		Օ
+			// 5028		Ꭴ
+			// 5054		Ꮎ
+			// 5061		Ꮕ
+			// 42152		꒨
+			// 42227		ꓳ
+			// 43504		꧰
+		}
+
+		private void FillBoxes_rus_o()
+		{
+			cb_rus_o.Items.Add(Convert.ToChar(111));         // 0
+			cb_rus_o.Items.Add(Convert.ToChar(242));         // 1
+			cb_rus_o.Items.Add(Convert.ToChar(243));         // 2
+			cb_rus_o.Items.Add(Convert.ToChar(244));         // 3
+			cb_rus_o.Items.Add(Convert.ToChar(245));         // 4
+			cb_rus_o.Items.Add(Convert.ToChar(246));         // 5
+			cb_rus_o.Items.Add(Convert.ToChar(247));         // 6
+			cb_rus_o.Items.Add(Convert.ToChar(248));         // 7
+			cb_rus_o.Items.Add(Convert.ToChar(333));         // 8
+			cb_rus_o.Items.Add(Convert.ToChar(335));         // 9
+			cb_rus_o.Items.Add(Convert.ToChar(337));         // 10
+			cb_rus_o.Items.Add(Convert.ToChar(466));         // 11
+			cb_rus_o.Items.Add(Convert.ToChar(511));         // 12
+			cb_rus_o.Items.Add(Convert.ToChar(525));         // 13
+			cb_rus_o.Items.Add(Convert.ToChar(527));         // 14
+			cb_rus_o.Items.Add(Convert.ToChar(555));         // 15
+			cb_rus_o.Items.Add(Convert.ToChar(557));         // 16
+			cb_rus_o.Items.Add(Convert.ToChar(559));         // 17
+			cb_rus_o.Items.Add(Convert.ToChar(561));         // 18
+			cb_rus_o.Items.Add(Convert.ToChar(959));         // 19
+			cb_rus_o.Items.Add(Convert.ToChar(972));         // 20
+			cb_rus_o.Items.Add(Convert.ToChar(1086));         // 21
+			cb_rus_o.Items.Add(Convert.ToChar(1255));         // 22
+			cb_rus_o.Items.Add(Convert.ToChar(1257));         // 23
+			cb_rus_o.Items.Add(Convert.ToChar(1413));         // 24
+			cb_rus_o.Items.Add(Convert.ToChar(1995));         // 25
+			cb_rus_o.Items.Add(Convert.ToChar(2790));         // 26
+			cb_rus_o.Items.Add(Convert.ToChar(4351));         // 27
+			cb_rus_o.Items.Add(Convert.ToChar(6112));         // 28
+			cb_rus_o.Items.Add(Convert.ToChar(6128));         // 29
+			cb_rus_o.Items.Add(Convert.ToChar(7439));         // 30
+			cb_rus_o.Items.Add(Convert.ToChar(7441));         // 31
+			cb_rus_o.Items.Add(Convert.ToChar(7443));         // 32
+			cb_rus_o.Items.Add(Convert.ToChar(7484));         // 33
+			cb_rus_o.Items.Add(Convert.ToChar(7506));         // 34
+			cb_rus_o.Items.Add(Convert.ToChar(7615));         // 35
+			cb_rus_o.Items.Add(Convert.ToChar(8338));         // 36
+
+			// 111		o
+			// 242		ò
+			// 243     ó
+			// 244     ô
+			// 245     õ
+			// 246     ö
+			// 248     ø
+			// 333		ō
+			// 335     ŏ
+			// 337     ő
+			// 466		ǒ
+			// 511		ǿ
+			// 525     ȍ
+			// 527		ȏ
+			// 555		ȫ
+			// 557		ȭ
+			// 559		ȯ
+			// 561		ȱ
+			// 959		ο
+			// 972		ό
+			// 1086		о
+			// 1255		ӧ
+			// 1257		ө
+			// 1413		օ
+			// 1995		ߋ
+			// 2790		૦
+			// 4351		ჿ
+			// 6112      ០
+			// 6128		៰
+			// 7439		ᴏ
+			// 7441		ᴑ
+			// 7443		ᴓ
+			// 7484		ᴼ
+			// 7506		ᵒ
+			// 7615		ᶿ
+			// 8338		ₒ
 		}
 	}
 }
